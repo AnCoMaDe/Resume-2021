@@ -1,4 +1,3 @@
-# Resume-2021
 <h1 align="center">Andrea Conant-Machl</h1>
 <p align="center">Redmond, WA | mail_ancoma@hotmail.com | 425.214.2809 <br>
   <a href="https://www.linkedin.com/in/andrea-conant-machl">LinkedIn</a> | <a href="https://www.behance.net/andreaconant">Behance</a> | <a href="https://ancomade.com/">Website</a></p>
